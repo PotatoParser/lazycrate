@@ -1,6 +1,6 @@
 # Lazycrate
 
-[![Build Status](https://img.shields.io/travis/com/PotatoParser/lazycrate?style=for-the-badge)](https://travis-ci.com/PotatoParser/lazycrate) [![Coverage](https://img.shields.io/coveralls/github/PotatoParser/lazycrate?style=for-the-badge)](https://coveralls.io/github/PotatoParser/lazycrate) [![Node v15+](https://img.shields.io/badge/Node-v15+-brightgreen.svg?style=for-the-badge)](https://nodejs.org/dist/latest-v15.x/)
+[![Build Status](https://img.shields.io/travis/com/PotatoParser/lazycrate?style=for-the-badge)](https://travis-ci.com/PotatoParser/lazycrate)[![Coverage](https://img.shields.io/coveralls/github/PotatoParser/lazycrate?style=for-the-badge)](https://coveralls.io/github/PotatoParser/lazycrate)[![Node LTS](https://img.shields.io/badge/Node-LTS-brightgreen.svg?style=for-the-badge)](https://nodejs.org/dist/latest-v14.x/)[![Node v15+](https://img.shields.io/badge/Node-v15+-brightgreen.svg?style=for-the-badge)](https://nodejs.org/dist/latest-v15.x/)
 
 Lazily and easily serialize and deserialize variables
 
