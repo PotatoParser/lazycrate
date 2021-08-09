@@ -3,3 +3,5 @@ test.js
 node_modules
 .nyc_output
 coverage
+.coveralls.yml
+.travis.yml
