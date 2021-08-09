@@ -34,6 +34,10 @@ const revivedClass = lazycrate.unbox(stringClass);	// Convert the string back in
 console.log(revivedClass.getCreationTime().toLocaleDateString());		// This works!
 ```
 
+## Installation
+
+`npm install lazycrate`
+
 ## Features
 
 - Serialize and deserialize variables
@@ -41,7 +45,7 @@ console.log(revivedClass.getCreationTime().toLocaleDateString());		// This works
 - Compress serialized objects
 - Synchronous and asynchronous boxing/unboxing
 
-## Synchronous:
+## Synchronous
 
 ### `lazycrate.sync.box(object)`
 
@@ -69,7 +73,7 @@ console.log(unbox(serialized));
 */
 ```
 
-## Asynchronous:
+## Asynchronous
 
 For the most part, the asynchronous code is available due to the usage of [Brotli compression](https://nodejs.org/api/zlib.html#zlib_zlib_brotlicompress_buffer_options_callback).
 
