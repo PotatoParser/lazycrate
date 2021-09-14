@@ -45,7 +45,7 @@ console.log(revivedClass.getCreationTime().toLocaleDateString());		// This works
 - Compress serialized objects
 - Synchronous and asynchronous boxing/unboxing
 
-## [Full List of Supported Primitives & Objects](#supported-primitives-&-objects)
+## [Full List of Supported Primitives & Objects](#supported-primitives--objects)
 
 ## Synchronous
 
